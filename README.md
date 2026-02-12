@@ -9,7 +9,7 @@ The report enables stakeholders to monitor **revenue trends, cost structure, mar
 
 ## Key Objectives
 - Convert raw accounting and ERP data into **standard financial statements**
-- Provide **year-wise comparison and variance analysis**
+- Provide **year-wise comparison, Actual vs Budget/Last-Year comparisons and variance analysis**
 - Deliver **clear visibility into profitability, balance sheet strength, and cash movement**
 - Support **data-driven financial decision-making**
 
@@ -28,8 +28,9 @@ The report enables stakeholders to monitor **revenue trends, cost structure, mar
   - **Contribution Margin**
   - **EBITDA**
   - **Net Profit %**
+- **Year vs Budget comparison** with variance indicators  
 - **Year vs Last Year comparison** with variance indicators  
-- **Bridge-style visual** explaining movement from revenue to net profit  
+- **Bridge-style visual** explaining movement from revenue to net profit  i.e. Unit-level economics 
 - Toggle between **Table view and Bridge chart** for detailed analysis  
 
 ### 3. Balance Sheet
@@ -70,8 +71,9 @@ Financial transaction-level and account-level data sourced from:
 - Excel-based accounting records  
 
 Includes:
+- Budgeting Data Table
 - Revenue & expense transactions  
-- Financial statement account classifications  
+- Financial statement account classifications i.e. Charts of Accounts Data
 - Year-wise balances  
 - Cash inflow and outflow records  
 
