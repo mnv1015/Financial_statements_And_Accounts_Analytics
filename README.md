@@ -91,6 +91,7 @@ Includes:
 ## Screenshots
 The repository includes report page previews for:
 - Home  
+  ![screenshot](https://github.com/mnv1015/Financial_statements_And_Accounts_Analytics/blob/main/Assets/Home.png)
 - Profit & Loss Bridge Analysis  
 - Balance Sheet Structure  
 - Cash Flow Trends  
